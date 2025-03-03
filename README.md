@@ -4,7 +4,8 @@ Gerçek zamanlı disk kullanımı takibi, kayıt altına alma ve e-posta bildiri
 
 
 
-📜 İçindekiler \n
+📜 İçindekiler 
+
 📌 Genel Bakış
 ⚙️ Özellikler
 🚀 Kurulum
